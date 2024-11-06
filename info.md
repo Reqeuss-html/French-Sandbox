@@ -2,7 +2,7 @@
 Site Officiel De French Sandbox
 
 ## French Sandbox ?
-  French Sandbox est un serveur Garry's Mod,
+  French Sandbox est un serveur Garry's Mod, <br>
   les gens aimes bien le serveur pour son activité et l'amusement,
   les joueurs sont assez actifs et ils s'amusent comme ils le veulent,
   si un joueur a un probleme il fera un ticket puis nous avons un systeme de warn,
